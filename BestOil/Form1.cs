@@ -326,6 +326,6 @@ namespace BestOil
                 sumAll.Text = (countRub()+SumAllCafe()).ToString();
             }
         }
-
+        
     }
 }
